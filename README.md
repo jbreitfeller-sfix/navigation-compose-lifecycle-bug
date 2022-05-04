@@ -9,7 +9,7 @@ to STARTED instead of RESUMED.
 
 # Version Information
 This project is reproducing the issue with the latest Compose Navigation library version 2.4.2.
-With some testing it appears this issue was fixed in 2.5.0-alpha03, but there is no callout as
+With some testing it appears this issue was fixed in 2.5.0-alpha04, but there is no callout as
 to why.
 
 # Interesting note
